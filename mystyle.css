@@ -103,16 +103,15 @@
         color: rgb(153, 0, 0);
        
 
-    }
     .chestie{
-      
+        margin-top:50px;
         border: 20px solid rgb(206, 123, 123);
-    
+        padding: 20px;
     }
 
     .chestiee{
       
         border: 5px solid rgb(138, 62, 62);
-    margin margin-top: 50px;
-     margin-bottom:20px
+        padding: 20px;
+        margin-top:50px;
     }
